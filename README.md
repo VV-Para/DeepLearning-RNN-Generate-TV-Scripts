@@ -1,1 +1,2 @@
-# DeepLearning-RNN-Generate-TV-Scripts
+# 说明
+优达学城深度学习纳米学位循环神经网络项目，使用RNN来生成电视剧剧本
